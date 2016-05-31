@@ -7,7 +7,7 @@ Snakefile for processing all fastq files in a directory to collapsed fasta forma
 1. Install [miniconda](http://conda.pydata.org/miniconda.html) with [bionconda channel] (https://bioconda.github.io/)
 2. Create the following `conda` environment (called `srna_process` in this instance):
 
-`conda create --name srna_process python=3.5 fastx-toolkit snakemake`
+`conda create --name srna_process python=3.5 fastx_toolkit snakemake`
 
 3. Activate the environment:
 
