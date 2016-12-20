@@ -1,3 +1,4 @@
+# Other adapters - TAGATCGGAAGAG
 IDS, = glob_wildcards("raw/{id}.fastq")
 
 rule all:
